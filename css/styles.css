@@ -1,0 +1,92 @@
+body {
+   
+    text-align: center;
+    margin:0;
+   
+}
+
+
+
+h1
+{
+    color:#FF4949;
+    font-family: 'Indie Flower', cursive;
+    font-size: 6em;
+    font-weight: normal;
+    margin:0;
+}
+
+
+h2
+{
+    color:#FF4949;
+    font-family: 'Shadows Into Light', cursive;
+    letter-spacing: 0.05em;
+    font-size: 4em;
+}
+
+p {
+
+    color:#541690;
+    font-size: 1.3em;
+    font-family: 'Lora', serif;
+}
+.underline
+{
+    text-decoration: underline;
+}
+
+.cloud1
+{
+    position:absolute;
+    left:50px;
+    top:30px;
+    width:150px;
+
+}
+.cloud2
+{
+    position:absolute;
+    right:100px;
+    top:200px;
+    width:60px;
+
+}
+.cloud3
+{
+    position:absolute;
+    left:220px;
+    top:400px;
+    width:250px;
+
+}
+
+.nyan
+{
+   
+   margin-top: 100px;
+    width:290px;
+
+}
+.me
+{
+   padding-top: 100px;
+    width:256px;
+
+}
+
+
+.first-zone
+{
+    background-color: #FF8D29;
+}
+
+.second-zone
+{
+    background-color: #FFCD38;
+}
+
+.third-zone
+{
+    
+}
